@@ -1,0 +1,17 @@
+.col-2{
+	height: 100;
+	border: 2px black solid;
+	border-radius: 15px;
+	margin-top: 80px;
+	margin-left: 50px;
+	margin-right: 40px;
+}
+
+.col-5{
+	height: 100;
+	border: 2px black solid;
+	border-radius: 15px;
+	margin-top: 80px;
+	margin-left: 50px;
+	margin-right: 40px;
+}
